@@ -21,6 +21,9 @@ let name = "Bent";
 | Value1 | D1    |
 | Value2 | D2    |
 | Value3 | D3    |
+| Value4 | D4    |
+| Value5 | D5
+|
 
 # Photo
 
