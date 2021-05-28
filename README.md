@@ -4,7 +4,7 @@
 
 **HI WELCOME TO MY WORLD**
 
-_สวัสดีเจ้าหนู_
+_สวัสดีเจ้าหนูน้อย_
 
 นี่คือโค๊ด `In line Code`
 
